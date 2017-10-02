@@ -1,7 +1,7 @@
 # Stacked Attention Network for VQA
 
 This project was implemented as a part of the course, Image Recognition using Deep learning (Cogs 260) at UC San Diego during Spring 2017.
-This paper explains the motivation, the algorithm and the results.
+[This](https://github.com/vnnsrk/visual-question-answering-tensorflow/blob/master/paper/Team14_Cogs260_FinalProject_VisualQA.pdf) paper explains the motivation, the algorithm and the results.
 
 ## Dependencies
 1. Tensorflow
