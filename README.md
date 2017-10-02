@@ -1,5 +1,8 @@
 # Stacked Attention Network for VQA
 
+This project was implemented as a part of the course, Image Recognition using Deep learning (Cogs 260) at UC San Diego during Spring 2017.
+This paper explains the motivation, the algorithm and the results.
+
 ## Dependencies
 1. Tensorflow
 2. Skimage
